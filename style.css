@@ -9,7 +9,7 @@ html,body {
 
 #mainJumbotron {
     height: 750px;
-    background-image: url("./header-bg.jpg");
+    background-image: url("./Images/header-bg.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -78,7 +78,7 @@ html,body {
 .contactJumbotron {
 
     height: 750px;
-    background-image: url("./contact.png");
+    background-image: url("./Images/contact.png");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
